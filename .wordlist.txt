@@ -76,6 +76,7 @@ dojos
 dxc
 DXC
 DXC's
+ebook
 eBook
 eBook's
 eBooks
